@@ -10,7 +10,7 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
 
 *Here’s the main interface of the Temperature Converter GUI:
 
-![Main UI]([assets/screenshots/main-ui.png](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/1.png))
+![Main UI](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/1.png)
 
 ## Features
 * **Bi-directional Conversion:** Instantly convert between Celsius, Fahrenheit, and Kelvin in any combination.
@@ -42,7 +42,7 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
 
 *Example of converting Celsius to Fahrenheit:
 
-![Conversion Example]([assets/screenshots/conversion-example.png](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/2.png))
+![Conversion Example](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/2.png)
 
  ### Instructions:
  1. Select your source scale (From) and target scale (To) using the dropdown menus.
