@@ -8,7 +8,7 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
 
 *Developed as part of my Software Development Internship at SkillCraft Technology.*
 
-*Here’s the main interface of the Temperature Converter GUI:
+* Here’s the main interface of the Temperature Converter GUI:
 
 ![Main UI](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/1.png)
 
@@ -40,7 +40,7 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
   ```bash
   java TemperatureConverter
 
-*Example of converting Celsius to Fahrenheit:
+* Example of converting Celsius to Fahrenheit:
 
 ![Conversion Example](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/2.png)
 
