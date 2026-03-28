@@ -40,7 +40,7 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
   ```bash
   java TemperatureConverter
 
-* Example of converting Celsius to Fahrenheit:
+* Example of converting Fahrenheit to Celsius:
 
 ![Conversion Example](https://github.com/Dharmendra0305/SCT_SD_1/blob/6c5d22a9ecc237e1bab699655301dd09475ac718/2.png)
 
