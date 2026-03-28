@@ -59,4 +59,4 @@ A lightweight, desktop-based graphical user interface (GUI) application for seam
   5. Open a Pull Request.
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See LICENSE [MIT License](LICENSE) for more information.
